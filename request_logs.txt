@@ -1,0 +1,2 @@
+GET:/register 200 0.053 ms
+GET:/register 200 0.007 ms
